@@ -1,0 +1,4 @@
+﻿  main.cpp
+s:\online storage\onedrive - uat\data structures and algorithms\linked list\linked list\main.cpp(13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Linked List.vcxproj -> S:\Online Storage\OneDrive - UAT\Data Structures and Algorithms\Linked List\Debug\Linked List.exe
+  Linked List.vcxproj -> S:\Online Storage\OneDrive - UAT\Data Structures and Algorithms\Linked List\Debug\Linked List.pdb (Full PDB)
